@@ -1,1 +1,7 @@
-# xgboost_cnn_practice
+# xgboost cnn practice
+
+
+*Projects accumulated for improvement
+*cnn and xgboost used
+*low metric values
+*unfinished project
